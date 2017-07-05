@@ -19,6 +19,8 @@ We can distribute this across available hands for speed.
 
 # Atoms
 
-- Form fields (Text Input, Labels, Selectors, )
+- Form fields (Text Input, Labels, Selectors, Date picker, Checkboxes, Radio, Image upload)
+- Badges/Tags
+- Overlays (Popups, Modals, Tooltip)
 - Buttons
-- 
+- Banners
