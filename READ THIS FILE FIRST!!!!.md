@@ -8,7 +8,7 @@
 —Bot Design
 —Video Streaming
 —Social Sharing 
-—Fintect & Digital Banking
+—Fintech & Digital Banking
 
 We can distribute this across available hands for speed.
 
