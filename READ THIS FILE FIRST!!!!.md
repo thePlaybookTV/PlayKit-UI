@@ -24,3 +24,23 @@ We can distribute this across available hands for speed.
 - Overlays (Popups, Modals, Tooltip)
 - Buttons
 - Banners
+- Cards
+- Accordion
+- Tables
+- List
+- Link
+- Alerts / Notifications
+- Pagination
+- Context/Overflow menu
+- Progress Indicator
+- Progress Bar
+- Search
+- Toggle
+- Loading
+- 
+
+
+# Elements
+
+- Cards
+
