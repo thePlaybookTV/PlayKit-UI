@@ -1,3 +1,5 @@
+![alt tag](http://imgur.com/download/WzdE6Qi)
+
 # PlayKit UI
 
  - We’ll be implementing this UI Kit using the atomic approach. i.e Build from atoms > Molecules > Elements. This means we’ll be designing the individual elements first, before designing the blocks then moving on to templates and full screens. 
