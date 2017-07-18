@@ -44,7 +44,7 @@ We can distribute this across available hands for speed.
 
 - Cards
 
-#Icons
+# Icons
 - Home
 - Mail
 - Photos
