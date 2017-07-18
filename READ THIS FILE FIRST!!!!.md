@@ -44,3 +44,16 @@ We can distribute this across available hands for speed.
 
 - Cards
 
+# Icons
+- Home
+- Mail
+- Photos
+- Contacts
+- Info
+- Arrows (Back, Front, Left, Right)
+- Star
+- Like
+- Cart
+- Profile
+- 
+
