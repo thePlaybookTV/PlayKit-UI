@@ -13,7 +13,7 @@
 We can distribute these across available hands for speed.
 
 - Icon Design. 
-~~The vision is to create our own custom icons but it remains up for debate. If the workload proves too much, we can ship with font-awesome and update with our local icon-pack later on. ~~
+~~The vision is to create our own custom icons but it remains up for debate. If the workload proves too much, we can ship with font-awesome and update with our local icon-pack later on~~
 Custom Icons are definitely happening! Thanks to @Flox :) 
 
 
