@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "747795F1-BC7D-483B-9B4F-4512B864A75F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 253,
+    "x": 803,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "832D3784-6E7B-4D8E-BC07-7E9B6D3CA673"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "212B8D81-93D9-4B86-A889-8490704D319E"
+    },
+    {
+      "class": "text",
+      "id": "EC7FBB3C-C4E8-4C86-86A0-14DC918FB972"
+    },
+    {
+      "class": "text",
+      "id": "C2E9FFE0-5590-4C8D-99A5-617A4E2EE3CE"
+    },
+    {
+      "class": "text",
+      "id": "07396A66-B0B5-43DB-8164-16249E915D4B"
+    }
+  ],
+  "name": "Aluminium Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

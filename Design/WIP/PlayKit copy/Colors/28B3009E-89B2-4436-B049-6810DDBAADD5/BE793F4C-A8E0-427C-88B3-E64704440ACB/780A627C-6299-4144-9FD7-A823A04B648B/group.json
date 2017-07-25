@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "780A627C-6299-4144-9FD7-A823A04B648B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 233,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "574515BA-76D1-49D9-9A0F-94EF9731F6A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A406320-FFEC-48DD-BD59-3A8D481B503F"
+    },
+    {
+      "class": "text",
+      "id": "C322D820-55EF-47CB-9AE4-1B4A9DA3638E"
+    },
+    {
+      "class": "text",
+      "id": "B0B4B381-A1F6-4769-9B54-D510CAF7D201"
+    },
+    {
+      "class": "text",
+      "id": "54AA5CA9-4FCD-48D4-BD7C-AED65BD5C76E"
+    }
+  ],
+  "name": "Cabaret",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

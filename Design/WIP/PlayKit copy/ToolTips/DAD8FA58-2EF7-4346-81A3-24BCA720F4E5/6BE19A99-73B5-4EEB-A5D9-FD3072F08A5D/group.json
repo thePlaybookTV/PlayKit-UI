@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "6BE19A99-73B5-4EEB-A5D9-FD3072F08A5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 255,
+    "x": 51,
+    "y": 464
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FD98B520-84AA-4B99-97B7-2CA66D053566"
+    },
+    {
+      "class": "text",
+      "id": "D7A9715E-4528-4F0D-B2BE-8680EA84E607"
+    }
+  ],
+  "name": "Tool-Tip/Large Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
