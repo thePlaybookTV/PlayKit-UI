@@ -119,20 +119,20 @@ They can be of three types
 
 These are additions to the existing elements on the kit
 
-Update Branches are denoted with `[ Update ] Commit Message`
+Update Commits are denoted with `[ Update ] Commit Message`
 
 
 ##### CleanUp
 
 These aren't additions but chores, house cleaning, and clean ups.
 
-CleanUp Branches are denoted with `[ CleanUp ] Commit Message`
+CleanUp Commits are denoted with `[ CleanUp ] Commit Message`
 
 ##### Refactor
 
 If after review, an element is highlighted to be changed. You can pick it up, do your magic and call it a refactor.
 
-Refactor Branches are denoted with `[ Refactor ] Commit Message`
+Refactor Commits are denoted with `[ Refactor ] Commit Message`
 
 
 ### Pull Requests
