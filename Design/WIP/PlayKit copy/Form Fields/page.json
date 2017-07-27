@@ -47,6 +47,10 @@
     {
       "class": "artboard",
       "id": "1002EE86-4B59-401A-801D-0BDEA430B90B"
+    },
+    {
+      "class": "group",
+      "id": "1302F076-4CAF-4D4A-9FF4-98D817D8B084"
     }
   ],
   "name": "Form Fields",

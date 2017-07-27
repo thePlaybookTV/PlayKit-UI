@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "680AAD63-98D3-4414-84B3-6E6FE676215A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 89,
+    "width": 140,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE448F30-9D23-4BC4-8ABA-9184E4AFA942"
+    },
+    {
+      "class": "text",
+      "id": "09D65983-75E7-4A80-83C4-E2016B80A838"
+    },
+    {
+      "class": "text",
+      "id": "E6A0B2D8-99CD-4D47-B9F1-23EAA509C05B"
+    },
+    {
+      "class": "group",
+      "id": "D42377F1-BA1E-41A0-9F6E-D15C6A128C92"
+    },
+    {
+      "class": "group",
+      "id": "DB0919A9-0EC0-4674-9C96-3DB3F01A318B"
+    }
+  ],
+  "name": "Form / Number Stepper / PlusMinus / Top Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

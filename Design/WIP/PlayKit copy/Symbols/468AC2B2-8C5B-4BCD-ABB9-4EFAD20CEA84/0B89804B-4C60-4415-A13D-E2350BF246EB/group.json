@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "0B89804B-4C60-4415-A13D-E2350BF246EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 97,
+    "width": 306,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64E884BA-A2A6-4C00-97C6-731E1A913BD4"
+    },
+    {
+      "class": "text",
+      "id": "CABC79C8-CF52-4F52-802F-EC7B9F25014D"
+    },
+    {
+      "class": "text",
+      "id": "ABF4836F-C02E-4A53-843A-52E642AFF8E0"
+    },
+    {
+      "class": "text",
+      "id": "BB606DCB-F471-4B81-81D5-B4EB54CCA7F9"
+    }
+  ],
+  "name": "textfield / Floating Label / TextField Tip Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

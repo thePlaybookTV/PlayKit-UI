@@ -42,36 +42,36 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "1FEFE6BE-6094-42DC-ADD9-54453DE8950B"
+      "class": "symbolInstance",
+      "id": "45CFAFD1-1EAA-4A52-A413-AF8F23042691"
     },
     {
-      "class": "group",
-      "id": "9634FEB7-BC26-4293-88ED-EA7A3BF42502"
+      "class": "symbolInstance",
+      "id": "4036C564-B2EA-470F-9B5E-66FE4475BC53"
     },
     {
-      "class": "group",
-      "id": "9FB9B2D3-C63E-4AE5-B2D0-746F45BBA81F"
+      "class": "symbolInstance",
+      "id": "B62DAEA2-0D02-4DE6-A0F4-696A3106D22D"
     },
     {
-      "class": "group",
-      "id": "4B0F20F8-4A34-4AAC-BEA4-210FE5BACD0F"
+      "class": "symbolInstance",
+      "id": "3CCB32A9-F5C5-4FF9-B8C3-D6E75056EC6C"
     },
     {
-      "class": "group",
-      "id": "692CE505-8CEA-4C54-A4C3-3614EB7E15EA"
+      "class": "symbolInstance",
+      "id": "A9457570-DED5-4E05-9249-6BC047B8465E"
     },
     {
-      "class": "group",
-      "id": "CA0A9F68-8C9F-456B-BDA4-5F1C729E72F6"
+      "class": "symbolInstance",
+      "id": "50028B0B-DEC3-41E5-AB5C-DE2572FA9A06"
     },
     {
-      "class": "group",
-      "id": "4D2E105F-015F-43D9-A8CD-D5578D438BCC"
+      "class": "symbolInstance",
+      "id": "333A018A-8712-4EC8-8F0F-6A28364A62CF"
     },
     {
-      "class": "group",
-      "id": "3CC27118-3F26-4009-AC2F-F3FF3729A1DB"
+      "class": "symbolInstance",
+      "id": "617D2496-8904-4704-8287-0364AD06EEEB"
     }
   ],
   "name": "Toasts",

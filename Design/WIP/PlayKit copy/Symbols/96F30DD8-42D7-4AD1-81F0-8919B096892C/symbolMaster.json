@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 6,
   "do_objectID": "96F30DD8-42D7-4AD1-81F0-8919B096892C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,8 +48,8 @@
       "id": "09376CB1-3BD3-45F6-A021-15945B35413D"
     }
   ],
-  "name": "txtfld_validation_false",
-  "nameIsFixed": false,
+  "name": "Validation / False",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

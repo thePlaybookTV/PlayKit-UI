@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "37F531ED-27C2-4EE4-ADB0-AE559451EFB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 306,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B0C726E-CC88-4D9A-B4BB-C180E683DFCC"
+    },
+    {
+      "class": "text",
+      "id": "9FB8A677-DC1A-49DA-ABD7-DB25FFCE030B"
+    },
+    {
+      "class": "group",
+      "id": "DECD1FE5-4D90-4F00-B46E-16FC2DE1416D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17B4CF46-C33F-4EFD-B643-0227AF09D09D"
+    }
+  ],
+  "name": "textfield / Floating Label / Password Flat Validation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -34,7 +34,7 @@
       "id": "BC781921-DF1B-4CF2-A4BB-4467028A0127"
     }
   ],
-  "name": "txtfld_validation_false",
+  "name": "Input Validation",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,6 +49,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_ddf9206c-d014-497d-8016-8b598c3dad7e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_50510218-c337-4152-9242-e82294671efd",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }
