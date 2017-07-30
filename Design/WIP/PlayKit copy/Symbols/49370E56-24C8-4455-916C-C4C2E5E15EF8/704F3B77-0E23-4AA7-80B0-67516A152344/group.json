@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -31,11 +31,11 @@
     },
     {
       "class": "text",
-      "id": "1E1AF1D6-2FE0-488A-BF46-6426DE31CD0C"
+      "id": "ACEEB08A-6745-4185-A85F-9BEA5EABE550"
     },
     {
       "class": "text",
-      "id": "ACEEB08A-6745-4185-A85F-9BEA5EABE550"
+      "id": "1E1AF1D6-2FE0-488A-BF46-6426DE31CD0C"
     }
   ],
   "name": "textfield / Floating Label / Username Flat",

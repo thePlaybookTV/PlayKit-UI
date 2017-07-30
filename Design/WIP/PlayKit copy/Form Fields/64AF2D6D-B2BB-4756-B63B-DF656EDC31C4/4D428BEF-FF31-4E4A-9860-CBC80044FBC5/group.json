@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "4D428BEF-FF31-4E4A-9860-CBC80044FBC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 306,
+    "x": 554,
+    "y": 464
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DB76B1C-454B-4AC4-9493-3D70F2E5BFA9"
+    },
+    {
+      "class": "text",
+      "id": "1FC67D7A-D7E7-408C-81F9-A68A1BD2728F"
+    },
+    {
+      "class": "text",
+      "id": "25576D1C-8422-42CA-9B4E-516F4521D7C7"
+    }
+  ],
+  "name": "textfield / Floating Label / Username Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

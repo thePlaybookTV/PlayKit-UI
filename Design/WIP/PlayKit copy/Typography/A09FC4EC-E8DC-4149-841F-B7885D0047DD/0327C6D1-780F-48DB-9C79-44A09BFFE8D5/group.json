@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 191,
+    "width": 189,
     "x": 157,
     "y": 190
   },
@@ -45,5 +45,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

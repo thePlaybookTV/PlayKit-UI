@@ -51,11 +51,31 @@
     },
     {
       "class": "symbolInstance",
+      "id": "96FEE1FC-4BAF-4E43-9FB5-76303040DE84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23724EED-3838-4F7E-B851-2BFD62FAAF7A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "FBD713DF-3666-4AF2-9375-FDF845ED69B7"
     },
     {
       "class": "symbolInstance",
+      "id": "2F3AB0D1-4745-4EFA-B609-284FBB621495"
+    },
+    {
+      "class": "symbolInstance",
       "id": "1E4B1BE6-4EF8-4A09-B496-DD9C698E23A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EE4446F-44EF-4D0B-9517-F6D6BE1FC153"
+    },
+    {
+      "class": "group",
+      "id": "4D428BEF-FF31-4E4A-9860-CBC80044FBC5"
     },
     {
       "class": "symbolInstance",

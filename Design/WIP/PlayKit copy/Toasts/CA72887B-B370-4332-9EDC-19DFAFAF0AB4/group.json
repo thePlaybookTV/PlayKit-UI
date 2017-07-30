@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "CA72887B-B370-4332-9EDC-19DFAFAF0AB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 270,
+    "x": 392,
+    "y": -723
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8B601593-F746-4B73-8FDE-BDF8C6A14BE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E096C06-0F8A-413B-B40B-84BC966588EE"
+    },
+    {
+      "class": "text",
+      "id": "1BF298BC-2B65-492E-914D-C02C8BEED946"
+    },
+    {
+      "class": "text",
+      "id": "66FBD633-DFBC-4953-A3DB-053A551CC2FB"
+    },
+    {
+      "class": "text",
+      "id": "BB8249E8-F2C6-43D8-A6E8-43493C98DEC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42B5ACE2-3FE6-4176-9426-325707203310"
+    }
+  ],
+  "name": "Notification/Toast/Success - NoIcon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

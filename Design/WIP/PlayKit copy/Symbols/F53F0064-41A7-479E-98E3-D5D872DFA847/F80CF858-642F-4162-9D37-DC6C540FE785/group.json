@@ -23,19 +23,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1D061887-FC59-4071-8754-091C3C675CCE"
-    },
-    {
-      "class": "text",
-      "id": "2E6FA665-C20E-4832-93E3-1F5A5ED94067"
+      "class": "group",
+      "id": "5589AF4A-5485-408C-9D1C-A19DA339B276"
     },
     {
       "class": "text",
       "id": "90B80417-4CB9-4859-9BBF-49875896A2B1"
+    },
+    {
+      "class": "text",
+      "id": "2E6FA665-C20E-4832-93E3-1F5A5ED94067"
     }
   ],
   "name": "textfield / Floating Label / username_Shadow",
