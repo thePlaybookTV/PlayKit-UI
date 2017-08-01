@@ -33,7 +33,9 @@
   "overrides": {
     "1362534A-B3A6-4EE9-80F1-C4B780027C16": {
       "symbolID": "8E998C8E-911B-4503-B69D-B4D7B947ED7C"
-    }
+    },
+    "268EC82A-412D-4739-B4E0-9A52BA7D84F4": "Evernote has Stopped",
+    "D999086E-996E-40C9-A0C3-69A9FFBE6989": "Bla Bla Bla"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

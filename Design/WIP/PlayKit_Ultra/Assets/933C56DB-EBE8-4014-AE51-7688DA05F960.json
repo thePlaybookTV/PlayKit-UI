@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 70,
     "width": 306,
-    "x": 323,
-    "y": -375
+    "x": 761,
+    "y": -1000
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -32,7 +32,7 @@
   "nameIsFixed": true,
   "overrides": {
     "06673FE5-7D1C-4DFE-82E7-08C2ED50F8C2": {
-      "symbolID": "E36616FD-024A-4B1C-A272-9D1AA02FA8A9"
+      "symbolID": "8723C0E2-3810-45DE-A29E-9E175F9DB840"
     },
     "710959F5-38EF-4E86-A858-556AABEF007F": {
       "symbolID": "90E3801E-7099-49E2-A9D1-3491C22C8A25"

@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 850,
+    "height": 1143,
     "width": 896,
     "x": -464,
     "y": -275
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,23 +39,67 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "89FB943B-F6BC-48DE-AB1A-7F120F4B687C"
+      "class": "shapeGroup",
+      "id": "EDDA10DB-A97F-4E8A-837C-8352BCADC2E4"
     },
     {
-      "class": "group",
-      "id": "493E208C-9547-493D-A0F3-BE5F72206FE1"
+      "class": "shapeGroup",
+      "id": "DD8FDAA5-3C63-4472-8EED-36DDA456E2C8"
     },
     {
-      "class": "group",
-      "id": "6BE19A99-73B5-4EEB-A5D9-FD3072F08A5D"
+      "class": "text",
+      "id": "82ED7B5B-1B14-418F-8C21-197BEF990D17"
     },
     {
-      "class": "group",
-      "id": "643D7D76-839A-47DB-B08D-BCD7D1416177"
+      "class": "text",
+      "id": "FCEE5046-EA60-431B-8D5F-233263CAAB4B"
+    },
+    {
+      "class": "text",
+      "id": "B6294AF6-6A2C-4B9F-9E76-F919D77EA4F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B972DFE-D4A8-43D5-B8E9-BC3A32B2F0EA"
+    },
+    {
+      "class": "text",
+      "id": "F2719766-46EF-4FB5-81FD-056A60B3F8DC"
+    },
+    {
+      "class": "text",
+      "id": "A11AD1BB-EF14-40C4-864B-5E97810EB3CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8517EA82-EB54-41FA-8F1F-B7DF479EBB9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57DF7210-88A7-4879-9305-BCAFDA0D850A"
+    },
+    {
+      "class": "text",
+      "id": "FD240514-95A1-4EBE-A4D6-B9DECFF9EC29"
+    },
+    {
+      "class": "text",
+      "id": "D7A9715E-4528-4F0D-B2BE-8680EA84E607"
+    },
+    {
+      "class": "text",
+      "id": "D680981B-730F-4182-A17E-F6BC00082407"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BB56340-3B57-4E61-83AC-1DA6293D55BB"
+    },
+    {
+      "class": "text",
+      "id": "2E070CBC-5431-4763-8CC7-728055A97FCA"
     }
   ],
   "name": "Tool Tips",

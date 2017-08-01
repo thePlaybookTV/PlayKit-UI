@@ -39,45 +39,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "endDecorationType": 0,
-    "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.4384952341395139,
-          "green": 0.3755242106497251,
-          "red": 0.9247714710884354
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 0,
-        "patternTileScale": 1
-      }
-    ],
-    "miterLimit": 10,
-    "sharedObjectID": "933F1B17-2156-42BE-8FDB-0A7A1F9A2909",
-    "startDecorationType": 0
+    "sharedObjectID": "933F1B17-2156-42BE-8FDB-0A7A1F9A2909"
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

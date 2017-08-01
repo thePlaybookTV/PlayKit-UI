@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 279,
   "do_objectID": "DD7A0C85-128B-478E-B9E0-48A2871BDCE7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 70,
     "width": 760,
-    "x": 5179,
-    "y": -572
+    "x": 1366,
+    "y": 226
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,8 +48,8 @@
       "id": "74166F1D-4BDF-4D99-9CAD-1DACFE671A5B"
     },
     {
-      "class": "shapeGroup",
-      "id": "565623C2-AB62-482E-AD74-EFB272E1A452"
+      "class": "symbolInstance",
+      "id": "4C41EFEE-86FC-4517-87B7-1380150CBDA0"
     }
   ],
   "name": "Alert / State / Default_Bg",
@@ -66,6 +66,12 @@
     "startDecorationType": 0
   },
   "symbolID": "F0BE6CA9-6D2C-49DF-8223-767D07A4C658",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

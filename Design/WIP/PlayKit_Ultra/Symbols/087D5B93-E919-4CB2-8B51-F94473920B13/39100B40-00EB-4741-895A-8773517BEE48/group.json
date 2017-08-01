@@ -26,12 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "710959F5-38EF-4E86-A858-556AABEF007F"
-    },
-    {
       "class": "text",
       "id": "0199BFF2-0FBB-455E-824D-5E1B609603CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "710959F5-38EF-4E86-A858-556AABEF007F"
     }
   ],
   "name": "Form / Input / Normal Copy",
