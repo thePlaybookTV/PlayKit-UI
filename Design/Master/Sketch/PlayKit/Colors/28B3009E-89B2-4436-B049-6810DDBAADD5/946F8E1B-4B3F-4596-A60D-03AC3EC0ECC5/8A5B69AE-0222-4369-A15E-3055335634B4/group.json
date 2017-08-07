@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8A5B69AE-0222-4369-A15E-3055335634B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 308,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A3A93C68-2599-4956-8B97-15C5F371A640"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C18CA229-6D7A-4B58-A3E9-F762881AA086"
+    },
+    {
+      "class": "text",
+      "id": "A0C8AE69-A763-4926-A04A-B1BAC34860CC"
+    },
+    {
+      "class": "text",
+      "id": "FF2F2F23-5943-49E4-96CF-BFE21B8A9FF0"
+    },
+    {
+      "class": "text",
+      "id": "7D48F172-A109-41A4-AC0E-BD0922EAAE56"
+    }
+  ],
+  "name": "White Lilac",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

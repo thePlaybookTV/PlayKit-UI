@@ -1,0 +1,53 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D16612F9-F7E2-443E-9441-28B3C4E4A57B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 124,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "733170D5-24EA-4A96-9FE1-D6A01A1852FA"
+    },
+    {
+      "class": "oval",
+      "id": "1F1AC414-A826-41F5-96F2-5D1E41080ECC"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0E48A31-A941-4E0B-A0EA-388B304F5B1C"
+    }
+  ],
+  "name": "Shape Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BB2E4982-F67A-4735-9A54-2AED8D7CD54C"
+  },
+  "windingRule": 1
+}

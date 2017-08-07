@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FCE6F43E-5617-493B-9B97-E05D01CFDF6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 286,
+    "x": 821,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D49299DA-10D2-4593-8A31-199F796A6010"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB23019A-0C02-4E08-AD14-CC7C3943582B"
+    },
+    {
+      "class": "text",
+      "id": "44A68BFC-360F-40D9-828B-15286F728E81"
+    },
+    {
+      "class": "text",
+      "id": "19DF57D4-BE4F-44BC-BCC5-71633A3F9880"
+    },
+    {
+      "class": "text",
+      "id": "22230B90-315E-4AC6-9161-A095EA290F5C"
+    }
+  ],
+  "name": "Sea Buckthorn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
