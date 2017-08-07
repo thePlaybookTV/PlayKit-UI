@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C0089C88-0BC8-4602-92CC-F9E04F526AB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 253,
+    "x": 0,
+    "y": 186
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "110A85CC-7A5D-47B3-A924-E43866BA5F9E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F371121-DCC0-42AD-946D-4CF0CC95B5DE"
+    },
+    {
+      "class": "text",
+      "id": "770208D4-545B-4243-A056-BCB86188EF8A"
+    },
+    {
+      "class": "text",
+      "id": "4C8011E7-D8C6-4DF1-BBF2-E8E881D9AAAC"
+    },
+    {
+      "class": "text",
+      "id": "44544516-778F-4446-9224-D857223303F6"
+    }
+  ],
+  "name": "Iris Blue ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

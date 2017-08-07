@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "260E3743-FEA2-4F6D-A9EE-11CD87BD2DA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 253,
+    "x": 412,
+    "y": 186
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ACC44A4A-C142-4599-AEF5-BDFC11EF4B9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F985757C-CC2B-4A7D-A277-D638C33CEA38"
+    },
+    {
+      "class": "text",
+      "id": "FFAFB79F-8F5B-4657-9444-621A8DD93E69"
+    },
+    {
+      "class": "text",
+      "id": "EC848A63-76FC-4D1C-99AF-B9D8A4BDEB55"
+    },
+    {
+      "class": "text",
+      "id": "07F08BF4-9FCE-4B28-A483-41550C7D1425"
+    }
+  ],
+  "name": "Bali Hai",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

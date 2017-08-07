@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6F77CBAC-5E8C-4046-BC84-64F048A5DF4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1016,
+    "x": -1560,
+    "y": 254
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A33AB8F-2001-4442-8A23-1FCD06DEB079"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "282CFF7E-2BF9-4EDB-8EE9-497D4557AEDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "834F7574-0E74-4E23-983F-8B6FFD1235FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D44BB9F0-7005-4C7B-A1A1-117800569DF4"
+    },
+    {
+      "class": "text",
+      "id": "CAED2328-4D61-40ED-862B-D23F2AF888E7"
+    },
+    {
+      "class": "text",
+      "id": "7FB2ABAE-04CC-4396-8A0C-6F1AC75A6910"
+    },
+    {
+      "class": "text",
+      "id": "EA6A1BB1-B29D-4AA3-A97F-962C2789002A"
+    },
+    {
+      "class": "text",
+      "id": "733D6580-9A23-4225-A779-767522A666BD"
+    }
+  ],
+  "name": "Normal Alerts Outline",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

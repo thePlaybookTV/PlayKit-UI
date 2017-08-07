@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "2115F4C3-E9B1-4AA0-9EA9-E211E24C89C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 253,
+    "x": 4,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6D567296-D891-4F3F-A4EF-B6F9D499CDE2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85EA9722-4836-4525-B2BF-5098AD27214A"
+    },
+    {
+      "class": "text",
+      "id": "06D38620-A493-4CF2-A5EB-E9F52A9ACFA0"
+    },
+    {
+      "class": "text",
+      "id": "DBCE7469-62EB-4AE8-9C02-B30F135062E5"
+    },
+    {
+      "class": "text",
+      "id": "C0B54B6C-0EFF-4ECF-963E-05B3D0881C02"
+    }
+  ],
+  "name": "Comet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

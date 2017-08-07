@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DDD2C341-57D1-4723-920D-029B150A06A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1016,
+    "x": 842,
+    "y": 254
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92B5D3E9-7486-4C1E-944F-4BA5FB1BE9E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32DF5D97-D904-4908-8E6E-F6AAD213EAEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81E953A1-C6FC-414C-9A93-C73EDC596213"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F8B9E1A-0801-479E-BEF8-B6F93A7371D2"
+    },
+    {
+      "class": "text",
+      "id": "55D455BE-90C6-4A83-94BD-3D6F1A26C2B0"
+    },
+    {
+      "class": "text",
+      "id": "9B3614CE-E9E0-42BB-8C35-16C4A7580A84"
+    },
+    {
+      "class": "text",
+      "id": "AD91A64A-5B62-4272-85A3-18EDBD5E24FB"
+    },
+    {
+      "class": "text",
+      "id": "988C04EA-5C61-4E45-924B-CBB88B98740B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "320A8841-BA85-43D0-B5D9-02F1CD8DB5E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7A458D5A-A8D4-4290-A1BC-60A4568543D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "61FA41BC-0D19-4003-8E1B-C4552BCEB5B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A487F89-9F78-4579-A04B-81BFCB9CFCAC"
+    }
+  ],
+  "name": "Dismissable Alerts outline link",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

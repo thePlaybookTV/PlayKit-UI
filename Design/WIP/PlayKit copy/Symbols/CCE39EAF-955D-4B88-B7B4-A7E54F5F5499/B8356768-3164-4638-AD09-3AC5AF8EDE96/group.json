@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "B8356768-3164-4638-AD09-3AC5AF8EDE96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 760,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5BA8D159-FDD6-4869-963E-CCC4E92A7E7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2A85ECA0-3A40-4638-B2FD-0C22A95D8A26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "374C8B52-DA46-4431-A7E2-23E315E3A58C"
+    },
+    {
+      "class": "text",
+      "id": "467C8CE0-8AFF-46DB-B95E-901E1F3E2B26"
+    }
+  ],
+  "name": "ProgressBar / Thin / PointHead_Number",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

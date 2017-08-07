@@ -1,0 +1,59 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiouNTg8REVGR0hMUFteYWVmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QGkluZmx1ZW5jaW5nIFRoZSBJbmZsdWVuY2Vy0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZV05TQ29sb3JfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7UIyQlCiYnKClVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAmMC4zNDExNzY0NzA2IDAuMzY4NjI3NDUxIDAuNDM1Mjk0MTE3NgAQAYAJgAvSKwosLVROU0lEEAGACtIvMDEyWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojM0XE5TQ29sb3JTcGFjZVhOU09iamVjdNIvMDY3V05TQ29sb3KiNjTSCjk6O18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo9QEOiPj+ADoAPokFCgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEkAAAAAAABdTGF0by1TZW1pYm9sZNIvMElKXxATTlNNdXRhYmxlRGljdGlvbmFyeaNJSzRcTlNEaWN0aW9uYXJ50i8wTU5fEBBOU0ZvbnREZXNjcmlwdG9yok80XxAQTlNGb250RGVzY3JpcHRvctZRUlNUClVWV1hXWlhaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAVI0BPgAAAAAAAgBWAF9ISClxdoIAW0i8wX2BXTlNBcnJheaJfNNIvMGJjXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjYmQ0XxAQTlNQYXJhZ3JhcGhTdHlsZSI+0AAA0i8wS2eiSzTSLzBpal8QEk5TQXR0cmlidXRlZFN0cmluZ6JrNF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFub1Ryb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCiAKkAsQC8AMEAwwDFAMcAyQDOANAA0gDUANYA2ADgAQIBFQEcASUBKwE4AU0BdgF4AXoBfAGBAYYBiAGKAY8BmgGjAbABswHAAckBzgHWAdkB3gH7Af0B/wIGAgkCCwINAhACEgIUAhYCLAJCAksCWQJeAnQCeAKFAooCnQKgArMCwALLAtcC6QL2AwgDCgMMAxUDFwMZAx4DHwMhAyYDLgMxAzYDUANUA2cDbANxA3QDeQOOA5EDpgO4A7sDwAAAAAAAAAIBAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAPC"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "1EBEF316-FC23-403D-9402-01D1E278F099",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 586,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{4, 14}, {581, 47}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Influencing The Infl",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "332A2D19-D9BA-4B34-978B-B2C8DB741955"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "advertising",
+          "type": "title"
+        },
+        "title": "Advertising"
+      }
+    }
+  }
+}

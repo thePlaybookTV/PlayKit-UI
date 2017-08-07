@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BD23BA08-9C48-4C4D-AEC8-3918C1F6E2A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 202,
+    "x": 448,
+    "y": 338
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "77BBF5C6-7FCB-430C-94C9-D9E478B65585"
+    },
+    {
+      "class": "text",
+      "id": "81563C45-A3C1-4F45-BBBF-FDE8CC23C94F"
+    }
+  ],
+  "name": "Lato SemiBold",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

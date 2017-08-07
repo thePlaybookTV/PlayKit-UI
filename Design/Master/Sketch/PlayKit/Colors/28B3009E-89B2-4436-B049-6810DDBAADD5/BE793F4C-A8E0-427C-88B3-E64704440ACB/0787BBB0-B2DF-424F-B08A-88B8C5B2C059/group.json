@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "0787BBB0-B2DF-424F-B08A-88B8C5B2C059",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 230,
+    "x": 412,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4B224612-72AB-4EFD-AB5B-587DD4F3EE0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72E92F6B-F126-4099-A2A4-5045093DE47F"
+    },
+    {
+      "class": "text",
+      "id": "71AC9742-BCB6-45D9-8804-E348194C376A"
+    },
+    {
+      "class": "text",
+      "id": "8E955216-BB9F-4B76-9F74-22551DB93D11"
+    },
+    {
+      "class": "text",
+      "id": "274F74A0-13D2-4A5A-B3B9-FA5C545ECBAF"
+    }
+  ],
+  "name": "Limeade",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "3FC266DD-310D-4908-9281-4B54FCDAF100",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 253,
+    "x": 579,
+    "y": 1713
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "42DAFBA1-5F52-4FFF-A16F-5285578812CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05B61AE2-3125-4D0E-A1EA-D882C2A906D4"
+    },
+    {
+      "class": "text",
+      "id": "F14B036A-98D8-4E7F-AB9F-5C4B9806DE24"
+    },
+    {
+      "class": "text",
+      "id": "3CC02D1C-BA90-4D5A-9FB4-04B58A268EF6"
+    },
+    {
+      "class": "text",
+      "id": "D61D72DD-2317-457D-9803-6C2EF98221FB"
+    }
+  ],
+  "name": "Bali Hai",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
