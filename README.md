@@ -141,7 +141,7 @@ a.k.a `PR`; These are created when you're done with your feature/Component and y
 
 To help understand what you've worked on, a `jpeg` or `png` export of your design can be used as a description of Pull Requests.
 
-Your PR should be always be against the `Development` Branch
+Your PR should always be against the `Development` Branch.
 
 
 ### Do and Dont's
@@ -149,4 +149,8 @@ Your PR should be always be against the `Development` Branch
 The Playbook UI-Kit wont be awesome without a couple of rules.  
 Here are they:
 
-* Never Push to master
+** Never Push to master **
+
+
+## Useful Links
+[Atomic Design](http://atomicdesign.bradfrost.com/chapter-2/).
