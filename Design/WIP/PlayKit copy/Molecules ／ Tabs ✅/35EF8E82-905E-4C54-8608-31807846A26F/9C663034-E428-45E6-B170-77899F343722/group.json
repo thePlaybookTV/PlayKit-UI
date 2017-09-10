@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "9C663034-E428-45E6-B170-77899F343722",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 893,
+    "x": 38,
+    "y": 71
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBAB1AB2-C605-4AD3-BA85-056BC983A425"
+    },
+    {
+      "class": "group",
+      "id": "E74C19A1-537C-4F24-8894-782024B2800D"
+    },
+    {
+      "class": "group",
+      "id": "F4598857-5175-4D4D-BC59-77918E714266"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C83C7AB5-36F0-4B8D-9E9F-959C8FE2323E"
+    },
+    {
+      "class": "text",
+      "id": "1E97EED9-ED9C-4DFD-9BE1-F9DA538B3B57"
+    }
+  ],
+  "name": "Tabs Client",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

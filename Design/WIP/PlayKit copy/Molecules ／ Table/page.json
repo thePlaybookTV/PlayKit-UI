@@ -1,0 +1,74 @@
+{
+  "_class": "page",
+  "do_objectID": "47AD2EC9-F37F-45B9-9C3F-E04D0756EFB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -368,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "44AC5076-61F3-4261-BD3A-31A0CAEDA40A"
+    },
+    {
+      "class": "artboard",
+      "id": "471F3F17-21FE-4AD8-B8C2-129DC979F1ED"
+    },
+    {
+      "class": "artboard",
+      "id": "B74CEA00-CFCD-482F-ADCE-3A92200F988F"
+    },
+    {
+      "class": "artboard",
+      "id": "31C82CF5-ADF6-4D6C-97A8-77D9C364F1E3"
+    },
+    {
+      "class": "artboard",
+      "id": "2B93C0C0-2F22-4F14-8D48-2385A7AD4081"
+    }
+  ],
+  "name": "Molecules / Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -228,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "AD96A1BD-A013-4510-9BF5-791B1E1FCA5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 223,
+    "width": 469,
+    "x": 1065,
+    "y": 57
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "105403DF-7729-484E-A88B-5D8197F7EBC2"
+    },
+    {
+      "class": "group",
+      "id": "D8D7FDDB-4C37-496C-80B6-A24FC53A507B"
+    },
+    {
+      "class": "group",
+      "id": "A4C24D78-1472-4110-94B6-EF0F2A4CF415"
+    },
+    {
+      "class": "group",
+      "id": "E4C10E38-9CC2-47BB-ABDF-01929F774A70"
+    }
+  ],
+  "name": "Accordion Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

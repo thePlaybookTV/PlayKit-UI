@@ -101,6 +101,30 @@
     "objects": [
     ]
   },
+  "pages": [
+    "----------------------",
+    "Atoms / Colors ✅",
+    "Atoms / Form Fields",
+    "Atoms / Toasts ✅",
+    "Atoms / Buttons ✅",
+    "Atoms / ToolTips ✅",
+    "Atoms / Typography ✅",
+    "Atoms / Toggle ✅",
+    "Atoms / Alerts ✅",
+    "Atoms / Progress Bar ✅",
+    "Atoms / Sliders ✅",
+    "Atoms / Panels ✅",
+    "----------------------",
+    "Molecules / Accordion ✅",
+    "Molecules / Modal ✅",
+    "Molecules / Table",
+    "Molecules / Tabs ✅",
+    "Molecules / BreadCrumbs ✅",
+    "Molecules / Pagenation ✅",
+    "Molecules / GridLayout",
+    "Molecules / Search",
+    "Symbols"
+  ],
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

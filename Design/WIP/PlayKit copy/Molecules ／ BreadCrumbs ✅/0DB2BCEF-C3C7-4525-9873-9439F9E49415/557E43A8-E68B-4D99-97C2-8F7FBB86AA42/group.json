@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "557E43A8-E68B-4D99-97C2-8F7FBB86AA42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 212,
+    "x": 27,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "BC54CD00-DEFA-4184-B20A-E4C4EA1A446E"
+    },
+    {
+      "class": "text",
+      "id": "F62C9F89-FDBE-451B-A8A8-25A0C8BEFDBC"
+    },
+    {
+      "class": "text",
+      "id": "7150248B-0E59-444A-8CFC-600AFBBBB235"
+    },
+    {
+      "class": "text",
+      "id": "7D483F44-4690-4BCC-B69D-4A673AE5330F"
+    },
+    {
+      "class": "text",
+      "id": "D9A65A99-FBBB-4A8F-BB4F-4346B820C658"
+    }
+  ],
+  "name": "Breadcrumbs",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

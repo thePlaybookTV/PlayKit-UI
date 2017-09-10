@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "0130F9CB-1699-4C9E-A683-6EA284E29532",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 284,
+    "x": 509,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0D06B306-EB4D-412F-B991-98B6D4F8D9B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7B20011-2DAF-4D92-ABFB-55CC93EBFC17"
+    },
+    {
+      "class": "group",
+      "id": "8A5FADEF-7780-4D00-BD01-F80AE00879BB"
+    }
+  ],
+  "name": "Flat Slider / Fill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

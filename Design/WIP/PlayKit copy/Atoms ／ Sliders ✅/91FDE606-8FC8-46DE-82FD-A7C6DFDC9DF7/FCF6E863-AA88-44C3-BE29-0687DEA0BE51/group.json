@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "FCF6E863-AA88-44C3-BE29-0687DEA0BE51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 289,
+    "x": 49,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "055E4DF5-B52D-4972-9007-2B18D4002A13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE69C2AC-D824-48D4-B0B9-F7A8217F0DE7"
+    },
+    {
+      "class": "group",
+      "id": "8E97DFBE-372E-4DEC-BA1B-24113209AF96"
+    }
+  ],
+  "name": "3D Slider  / Outline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

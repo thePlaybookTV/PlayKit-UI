@@ -1,7 +1,7 @@
 {
   "_class": "sharedStyle",
   "do_objectID": "493DCF36-51FE-4F5F-9052-5E222EF513A8",
-  "name": "SubStdTxt_style",
+  "name": "Text / SubscriptTxt",
   "value": {
     "_class": "style",
     "endDecorationType": 0,
@@ -21,7 +21,8 @@
         "NSParagraphStyle": {
           "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OWk5TVGFiU3RvcHNWJGNsYXNzW05TQWxpZ25tZW50gACAAhAE0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSFNaZmhqbHF8hZibpLa5vgAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAADA"
         }
-      }
+      },
+      "verticalAlignment": 0
     }
   }
 }

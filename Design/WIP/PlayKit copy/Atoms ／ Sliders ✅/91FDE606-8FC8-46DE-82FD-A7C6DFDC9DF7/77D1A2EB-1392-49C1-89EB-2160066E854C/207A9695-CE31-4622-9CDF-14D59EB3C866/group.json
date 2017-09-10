@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "207A9695-CE31-4622-9CDF-14D59EB3C866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 289,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47FBED59-4B66-4E38-BFB6-9A6CA48417CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C920FB52-2736-45CF-9682-DF364BBE0BC8"
+    },
+    {
+      "class": "group",
+      "id": "411DE820-0F68-41C3-92AE-E9EFA122DE25"
+    }
+  ],
+  "name": "Flat Slider / Outline Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

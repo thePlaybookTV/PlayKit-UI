@@ -101,6 +101,21 @@
     "objects": [
     ]
   },
+  "pages": [
+    "Form Fields",
+    "Toasts",
+    "Buttons",
+    "ToolTips",
+    "Typography",
+    "Colors",
+    "Toggle",
+    "Alerts",
+    "Progress Bar",
+    "Sliders",
+    "Panels",
+    "Symbols Library",
+    "Symbols"
+  ],
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

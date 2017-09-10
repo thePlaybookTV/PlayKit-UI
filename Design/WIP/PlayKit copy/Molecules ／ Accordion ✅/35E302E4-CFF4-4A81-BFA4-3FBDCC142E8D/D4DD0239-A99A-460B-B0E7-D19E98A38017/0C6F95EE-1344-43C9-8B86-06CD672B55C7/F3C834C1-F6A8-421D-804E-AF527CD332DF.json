@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZmdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT5BREhMVFVWV1hcYGJVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfEA9GZWVkIEpvbm55IEhlcnDTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKDAuMDExNzY0NzA1ODggMC43MjU0OTAxOTYxIDAuODc0NTA5ODAzOQAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHVNjc4Cjk6Ozw9PFpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACADCNANAAAAAAAAIAO0hIKP0CggA3SLC1CQ1dOU0FycmF5okIx0iwtRUZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNFRzFfEBBOU1BhcmFncmFwaFN0eWxl0gpJSktfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AWgBDTERIKTVBTok5PgBGAEqJRUoATgBSAFV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXExhdG8tUmVndWxhctIsLVlaXxATTlNNdXRhYmxlRGljdGlvbmFyeaNZWzFcTlNEaWN0aW9uYXJ50iwtXV5fEBBOU0ZvbnREZXNjcmlwdG9yol8xXxAQTlNGb250RGVzY3JpcHRvctIsLVtholsx0iwtY2RfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZTFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaGlUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAlQCcAKQArwCzALUAtwC5AL0AvwDBAMMAxQDNAOABAgELAREBHgEzAV4BYAFiAWQBaQFuAXABcgF3AYIBiwGYAZsBqAGxAbYBvgHBAcwB1wHjAfUCBwIJAgsCFAIWAhsCHAIeAiMCKwIuAjMCTQJRAmQCaQKGAogCigKRApQClgKYApsCnQKfAqECtwLNAtYC4wLoAv4DAgMPAxQDJwMqAz0DQgNFA0oDXwNiA3cDiQOMA5EAAAAAAAACAQAAAAAAAABqAAAAAAAAAAAAAAAAAAADkw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F3C834C1-F6A8-421D-804E-AF527CD332DF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 104,
+    "x": 10.75218340611352,
+    "y": 14
+  },
+  "glyphBounds": "{{1, 6}, {102, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Feed Jonny Herp",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9E39C80F-F843-4B57-B79E-73B4CA11E2C8"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

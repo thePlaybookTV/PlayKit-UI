@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "1FF281C4-C885-4496-91E7-029D8209BE96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 199,
+    "width": 306,
+    "x": 1465,
+    "y": 311
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6662AFB9-475C-4210-BAF5-45E3C55BE24B"
+    },
+    {
+      "class": "text",
+      "id": "58CE610E-1E2F-43CB-91E7-0FC4AB4B44DB"
+    },
+    {
+      "class": "text",
+      "id": "0CBD73E8-ED17-4D73-AE4D-C1FE3F5DF67D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5357273-14DD-4971-B899-8CE51DC3DC58"
+    }
+  ],
+  "name": "Form / Select / FloatingLabel Shadow Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

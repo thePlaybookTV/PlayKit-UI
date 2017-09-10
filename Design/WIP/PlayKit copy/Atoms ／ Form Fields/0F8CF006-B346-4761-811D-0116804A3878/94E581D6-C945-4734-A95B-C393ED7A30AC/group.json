@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "94E581D6-C945-4734-A95B-C393ED7A30AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 222,
+    "width": 306,
+    "x": 93,
+    "y": 286
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A2910CE4-5512-4805-972C-4F32DFC77C70"
+    },
+    {
+      "class": "text",
+      "id": "AFE6A816-271C-49FF-B410-C3CF0D9E9221"
+    },
+    {
+      "class": "text",
+      "id": "122E7807-29B2-4FAF-AB90-192C7CAE151D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9E71721-D447-4DE3-9F31-610278E1BFC4"
+    }
+  ],
+  "name": "Form / Select / Default Shadow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

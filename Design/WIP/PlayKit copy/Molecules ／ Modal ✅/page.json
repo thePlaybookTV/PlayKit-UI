@@ -1,0 +1,74 @@
+{
+  "_class": "page",
+  "do_objectID": "A4A693B7-A513-473E-A90D-9BE8C2A86471",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -368,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5FF4C018-CC70-4C41-84E3-F85258D0FA8F"
+    },
+    {
+      "class": "artboard",
+      "id": "5A6B883E-90D0-4049-843E-C54E8CE5B3D5"
+    },
+    {
+      "class": "artboard",
+      "id": "C505BED9-A02A-4275-97E4-E6A8848E640A"
+    },
+    {
+      "class": "artboard",
+      "id": "542EE85A-31DA-4A32-A6D3-C52F2B3CD622"
+    },
+    {
+      "class": "artboard",
+      "id": "BB8DDBAC-8B19-4378-B614-1AE010F8508E"
+    }
+  ],
+  "name": "Molecules / Modal ✅",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -228,
+    "guides": [
+    ]
+  }
+}

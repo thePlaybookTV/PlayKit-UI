@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "C75A6A9E-9400-44BF-BF89-2425541D550D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 289,
+    "x": 49,
+    "y": 404
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1A80BF70-E54D-4169-990C-1E11805BDD8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D047499A-A157-4173-A6A0-CF766EF332E3"
+    },
+    {
+      "class": "group",
+      "id": "E7A0C726-9DBA-4C53-B2CF-241F96627CA1"
+    },
+    {
+      "class": "group",
+      "id": "912DE9C0-1CF0-46C0-B94F-D4A9977C55ED"
+    }
+  ],
+  "name": "3D Slider  / Outline Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

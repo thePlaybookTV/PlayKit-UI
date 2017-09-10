@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "010362C9-E5FC-40B0-9F95-465593224018",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 284,
+    "x": 2,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33F25270-CE21-4D63-91F8-394B090EFBB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACF05724-7F72-4334-B0E1-3EE786E5B09C"
+    },
+    {
+      "class": "group",
+      "id": "7E6E9226-1EBA-40E4-B54D-EF5BC542AE15"
+    }
+  ],
+  "name": "3D Slider / Fill Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

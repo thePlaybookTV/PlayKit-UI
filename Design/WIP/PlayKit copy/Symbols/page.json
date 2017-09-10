@@ -215,6 +215,26 @@
     {
       "class": "symbolMaster",
       "id": "BCF94F0E-C882-4BDF-9947-7E9EA738654D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B8C57125-3112-4CF0-9736-2BC17CA57B50"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "432A438E-0A2C-4875-9B6D-BF817164DAF1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D9B4D44C-E61C-4DF8-806D-2313A91F9541"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "22CBA4F3-3A11-4347-90C9-323040EDFA7D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "35FD4960-21AE-472C-B293-669B10E81A05"
     }
   ],
   "name": "Symbols",

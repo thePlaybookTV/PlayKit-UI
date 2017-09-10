@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "DEE56927-C917-4462-8256-8837799A26E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -348,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8804127E-6328-439C-AD28-BC6D224E8349"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32757A46-3ABF-4299-9623-8DE1FA48C323"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F474220B-7827-4C80-8DDE-B7787F362AC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37A3728F-0B6C-4B7D-9B7F-46E8555F954D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0059CF27-5343-471C-88F3-5D2A2BF3EA7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7196F225-B862-413D-8C16-972437B3CF9C"
+    },
+    {
+      "class": "group",
+      "id": "A0A36336-1CA5-4971-A81A-0C5D68299AD3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03FB21AF-D7B1-4EB3-A56E-ECAEC91D8C71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1AC0D64-BC07-472B-90B9-727CA9831D74"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFA501CD-C385-4741-AFAC-E945DBA5800B"
+    },
+    {
+      "class": "group",
+      "id": "0AB4F573-31E4-47C9-8D44-35A1592CE8D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BF9D542-F44F-4884-B997-2F4E163A8935"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E63EBC7E-FA32-44C2-B448-E77239EF67F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C02A88CF-25F5-4CEC-920D-58C6C41C1666"
+    }
+  ],
+  "name": "Atoms / Toggle ✅",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -262,
+    "guides": [
+    ]
+  }
+}
